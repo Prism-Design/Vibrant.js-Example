@@ -1,0 +1,9 @@
+{
+  "name": "vibrant-example",
+  "directories": {
+    "input": "input"
+  },
+  "dependencies": {
+    "node-vibrant": "^2.0.0"
+  }
+}
